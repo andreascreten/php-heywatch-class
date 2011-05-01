@@ -10,8 +10,6 @@ Usage
 
 **Get a list of all videos in the account**
 
-    <?php
-
     include 'heywatch.php';
     
     // Connect to Hey!Watch
